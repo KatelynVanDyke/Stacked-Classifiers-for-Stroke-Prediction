@@ -1,0 +1,6 @@
+,gender,age,hypertension,heart_disease,avg_glucose_level
+gender,1.000,0.026,-0.022,-0.086,-0.056
+age,0.026,1.000,0.276,0.264,0.240
+hypertension,-0.022,0.276,1.000,0.108,0.175
+heart_disease,-0.086,0.264,0.108,1.000,0.162
+avg_glucose_level,-0.056,0.240,0.175,0.162,1.000
